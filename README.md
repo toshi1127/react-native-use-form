@@ -1,9 +1,9 @@
-# react-native-use-form
+# react-slim-use-form
 A form validation library implemented by React Hooks.
 Easy to implement form state management, validation and data submission.
 
 ## How to install
-`npm install react-native-use-form` or `yarn add react-native-use-form`
+`npm install react-slim-use-form` or `yarn add react-slim-use-form`
 
 ## How to use
 
